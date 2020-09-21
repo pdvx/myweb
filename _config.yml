@@ -1,0 +1,17 @@
+
+
+title: Hello World
+email: vphm910@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  My first website as a homework week 2 for web application dev
+baseurl: ""
+url: ""
+twitter_username: phamvu
+github_username:  pdvx
+
+markdown: kramdown
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
